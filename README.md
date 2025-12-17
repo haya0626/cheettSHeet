@@ -1,4 +1,4 @@
-![ReadmeTop.png](images/ReadmeTop.png)
+![ReadmeHeader.jpg](images/ReadmeHeader.jpg)
 
 ## ディレクトリ構成
 
